@@ -1,68 +1,260 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>365 Reasons I Love You</title>
-  <link rel="stylesheet" href="style.css">
+
+<meta charset="UTF-8" />
+
+<meta 
+name="viewport" 
+content="width=device-width, initial-scale=1.0"
+/>
+
+<title>Every Reason Leads to You</title>
+
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+
+
+<link rel="stylesheet" href="style.css">
+
 </head>
+
+
 
 <body>
 
-  <div class="word-bg" id="wordBg"></div>
-
-  <div class="container">
-
-    <h1 class="title">Every Reason Leads to You</h1>
 
 
-    <!-- WEATHER -->
-    <div class="weather-card">
+<!-- =========================
+     JARVIS WELCOME SCREEN
+========================= -->
 
-      <div class="location">
-        📍 Omaha, Nebraska
-      </div>
 
-      <div class="weather-main">
-        <span id="weatherIcon">☀️</span>
-        <span id="temperature">--°</span>
-      </div>
+<div class="welcome-screen" id="welcomeScreen">
 
-      <div id="weatherText">
-        Loading weather...
-      </div>
 
-    </div>
+<div class="welcome-glass">
 
 
 
-    <!-- LOVE MESSAGE -->
-
-    <div class="card">
-
-      <div class="meta">
-
-        <h2 id="dayTitle">
-          Day
-        </h2>
-
-        <div class="divider"></div>
-
-      </div>
+<h1 id="welcomeGreeting"></h1>
 
 
-      <p id="message">
-        Loading...
-      </p>
 
 
-    </div>
+<!-- WEATHER -->
+
+<p id="welcomeWeather"></p>
 
 
-  </div>
 
 
-  <script src="script.js"></script>
+
+<!-- NEWS -->
+
+<div id="newsSection">
+
+
+<div class="news-header">
+
+📰 Your Morning Briefing
+
+</div>
+
+
+
+<div id="newsContent">
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+<!-- MOOD CHECK -->
+
+
+<div class="mood-check" id="moodCheck">
+
+
+<p id="moodText">
+
+
+Before we start your day...
+
+<br>
+
+How are you feeling today? 💗
+
+
+</p>
+
+
+
+
+
+<div class="mood-buttons" id="moodButtons">
+
+
+
+<button class="mood-button" onclick="selectMood('happy')">
+😊
+</button>
+
+
+
+<button class="mood-button" onclick="selectMood('love')">
+💕
+</button>
+
+
+
+<button class="mood-button" onclick="selectMood('calm')">
+😌
+</button>
+
+
+
+<button class="mood-button" onclick="selectMood('tired')">
+😴
+</button>
+
+
+
+<button class="mood-button" onclick="selectMood('sad')">
+😢
+</button>
+
+
+
+<button class="mood-button" onclick="selectMood('angry')">
+😡
+</button>
+
+
+
+</div>
+
+
+
+
+
+<button class="skip-button" onclick="skipMood()">
+
+Skip
+
+</button>
+
+
+
+</div>
+
+
+
+
+<p id="welcomeMessage"></p>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+<!-- FLOATING WORDS -->
+
+
+<div 
+class="word-bg" 
+id="wordBg">
+</div>
+
+
+
+
+
+
+
+<!-- MAIN APP -->
+
+
+<div class="container" id="mainApp">
+
+
+
+<h1 class="title">
+
+Every Reason Leads to You
+
+</h1>
+
+
+
+
+
+
+<div class="card">
+
+
+<div class="meta">
+
+
+<h2 id="dayTitle">
+
+Day
+
+</h2>
+
+
+<div class="divider"></div>
+
+
+</div>
+
+
+
+
+
+<p id="message">
+
+Loading...
+
+</p>
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<script src="script.js"></script>
+
+
 
 </body>
+
+
 </html>
