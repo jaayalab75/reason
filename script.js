@@ -48,35 +48,26 @@ let temperature = "";
 
 
 
-function getDayOfYear(){
+function getLoveDay() {
 
+    const today = new Date();
 
-const now = new Date();
+    // Nicolle's birthday (Month is 0-based, so July = 6)
+    let birthday = new Date(today.getFullYear(), 6, 26);
 
+    // If today is before this year's birthday,
+    // use last year's birthday.
+    if (today < birthday) {
+        birthday = new Date(today.getFullYear() - 1, 6, 26);
+    }
 
-const start = new Date(
+    const msPerDay = 1000 * 60 * 60 * 24;
 
-now.getFullYear(),
+    const diff = Math.floor(
+        (today - birthday) / msPerDay
+    );
 
-0,
-
-0
-
-);
-
-
-const diff = now-start;
-
-
-return Math.floor(
-
-diff /
-
-(1000*60*60*24)
-
-);
-
-
+    return diff + 1;
 }
 
 
@@ -574,39 +565,17 @@ clearInterval(interval);
 
 
 
-function loadMessage(){
+function loadMessage() {
 
+    const day = getLoveDay();
 
-const day =
-getDayOfYear();
+    document.getElementById("dayTitle").innerHTML = `
+        Day ${day}
+        <span class="heart">💗</span>
+    `;
 
-
-
-document.getElementById(
-"dayTitle"
-).innerHTML =
-
-`
-
-Day ${day}
-
-<span class="heart">
-
-💗
-
-</span>
-
-`;
-
-
-
-document.getElementById(
-"message"
-).innerText =
-messages[day % messages.length];
-
-
-
+    document.getElementById("message").innerText =
+        messages[day - 1];
 }
 
 
