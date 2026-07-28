@@ -690,48 +690,30 @@ pointer-events:none;
 
 .container {
 
-
 width:100%;
-
 
 max-width:430px;
 
-
-
 text-align:center;
-
-
 
 z-index:10;
 
-
-
 display:flex;
-
 
 flex-direction:column;
 
+justify-content:center;
 
-
-margin-top:60px;
-
-
+min-height:100vh;
 
 opacity:1;
 
-
-
 visibility:visible;
 
-
-
 transition:
-
 opacity 1.5s ease;
 
-
 }
-
 
 
 
