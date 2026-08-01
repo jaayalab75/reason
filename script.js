@@ -692,3 +692,12 @@ function loadMessage() {
     },800);
 
 }
+window.onload=function(){
+
+    startWelcome();
+
+    startWordIntro();
+
+    loadMessage();
+
+};
