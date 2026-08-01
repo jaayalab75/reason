@@ -1,11 +1,103 @@
 const messages = [
+  "Good morning, mi amor. Before your day begins, I hope you remember that there is someone who feels incredibly lucky just knowing you exist.",
 
-"I love how you make life feel peaceful just by being in it.",
+  "I love that you can make me smile without even trying. Sometimes it is something you say, something you do, or simply the way you are.",
 
-"I love your smile — it’s my favorite view.",
+  "I hope you see yourself today the way I see you. Someone who is kind, special, beautiful, and worth appreciating every single day.",
 
-"I love how you care so deeply about everything you do."
+  "One thing I never want to take for granted is how comfortable I feel being myself around you. That feeling is something truly special.",
 
+  "I love hearing your thoughts because even the smallest things you talk about give me another little piece of who you are.",
+
+  "You have a way of making moments feel more important. A simple conversation with you can become one of my favorite parts of the day.",
+
+  "I hope today gives you a reason to laugh. Your smile is one of my favorite things to see.",
+
+  "I love how much meaning you bring into the little things. You remind me that the smallest moments can become the ones we remember forever.",
+
+  "Sometimes I think about how many memories we have yet to create, and it makes me excited for all the moments waiting for us.",
+
+  "I hope you know that I notice the little things about you. The things you probably think nobody sees are often the things I love the most.",
+
+  "I love the way your personality shines through in everything you do. You do not have to try to stand out because you naturally do.",
+
+  "One of my favorite things about you is the way you care. You have a heart that shows love without needing recognition for it.",
+
+  "I hope you never forget that you are appreciated for who you are, not just for what you do for others.",
+
+  "You make me look forward to the simple parts of life. The conversations, the laughs, and the random moments that become memories.",
+
+  "I love that there are still things about you I get to discover. Getting to know you more will always be one of my favorite things.",
+
+  "I hope today you take a moment to be proud of yourself. You have grown into someone truly amazing.",
+
+  "I love the little expressions you make when you are excited, confused, or telling a story. They are moments I wish I could save forever.",
+
+  "You have no idea how many times a day something reminds me of you. Somehow you have become part of the way I experience the world.",
+
+  "I hope you always feel comfortable being exactly who you are with me. That version of you is my favorite one.",
+
+  "I love that we can laugh together. Being able to have fun with someone you love is one of life's greatest gifts.",
+
+  "There is something special about knowing someone so deeply that even their little habits become things you adore.",
+
+  "I hope today reminds you that you are capable of more than you sometimes give yourself credit for.",
+
+  "I love how passionate you become when you talk about something you care about. Seeing your excitement makes me happy.",
+
+  "You have taught me that love is not just about big moments. It is about appreciating the everyday moments too.",
+
+  "I hope you know that your presence makes a difference. You make the lives of the people around you better just by being yourself.",
+
+  "I love that you have a way of making me want to slow down and enjoy the moment instead of always thinking about what comes next.",
+
+  "One of my favorite things is learning the reasons behind the things you love. Every story gives me another glimpse into your heart.",
+
+  "I hope you are gentle with yourself today. You deserve the same kindness you give to everyone else.",
+
+  "I love the way you bring your own personality into everything. There is nobody else who does things exactly like you.",
+
+  "You make me appreciate the little details in life that I used to overlook.",
+
+  "I hope you know how much your happiness matters to me. Seeing you happy is something I will always care about.",
+
+  "I love that we can have meaningful conversations and silly ones too. Having both is what makes something feel real.",
+
+  "You are someone who makes people feel comfortable being themselves. That is a rare quality.",
+
+  "I hope today gives you a moment where you stop and realize how incredible you are.",
+
+  "I love when you share random thoughts with me because those little moments make me feel closer to you.",
+
+  "You remind me that the best parts of life are usually not planned. They are the moments that happen naturally.",
+
+  "I hope you always chase the things that make you happy because your happiness deserves room to grow.",
+
+  "I love the way you see things differently than I do. You bring a perspective into my life that I would not have without you.",
+
+  "You are someone I can talk to about anything, and that means more to me than you probably realize.",
+
+  "I hope you remember that even on difficult days, there is someone cheering for you and believing in you.",
+
+  "I love the little moments when you get comfortable and completely yourself. Those are some of my favorite moments with you.",
+
+  "You have a beautiful way of making people feel cared about. I hope you receive that same love back every day.",
+
+  "I hope you never underestimate the impact you have on the people who love you.",
+
+  "I love that every conversation with you teaches me something new about the person you are.",
+
+  "You make ordinary days feel like they are worth remembering.",
+
+  "I hope today brings you something unexpected that makes you smile.",
+
+  "I love that you are both strong and soft. You have a beautiful balance that makes you who you are.",
+
+  "You are one of those people who makes life feel a little brighter just by being around.",
+
+  "I hope you always remember that you are deeply valued and cared for.",
+
+  "I love being able to share parts of my life with you because you make every experience better."
 ];
 
 
@@ -567,35 +659,36 @@ clearInterval(interval);
 
 function loadMessage() {
 
+    const messageElement =
+    document.getElementById("message");
+
+
     const day = getLoveDay();
 
-    document.getElementById("dayTitle").innerHTML = `
-        Day ${day}
-        <span class="heart">💗</span>
-    `;
 
-    document.getElementById("message").innerText =
-        messages[day - 1];
+    messageElement.classList.add(
+        "message-hidden"
+    );
+
+
+    setTimeout(()=>{
+
+
+        document.getElementById("dayTitle").innerHTML = `
+            Day ${day}
+            <span class="heart">💗</span>
+        `;
+
+
+        messageElement.innerText =
+            messages[day - 1];
+
+
+        messageElement.classList.remove(
+            "message-hidden"
+        );
+
+
+    },800);
+
 }
-
-
-
-
-
-
-
-window.onload=function(){
-
-
-
-startWelcome();
-
-
-startWordIntro();
-
-
-loadMessage();
-
-
-
-};
