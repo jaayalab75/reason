@@ -495,27 +495,27 @@ document.body.classList.remove(
 const funnyVideos = {
 
 happy:
-"https://www.youtube.com/watch?v=9sPthPleEKo",
+"https://www.youtube.com/shorts/SET2xG-ZCGo",
 
 
 love:
-"https://www.youtube.com/shorts/fKJG4I4nx3U",
+"https://www.youtube.com/shorts/-mFCotPcRGE",
 
 
 calm:
-"https://www.youtube.com/shorts/uDOLjJ3DDQs",
+"https://www.youtube.com/shorts/Ew6VhePf0tA",
 
 
 tired:
-"https://www.youtube.com/shorts/i_V_foxJg7Q",
+"https://www.youtube.com/shorts/hS4nJo-xbe8",
 
 
 sad:
-"https://www.youtube.com/shorts/TCwNfo-c7Qc",
+"https://www.youtube.com/watch?v=68vZX2uUKKA&list=RD68vZX2uUKKA&start_radio=1",
 
 
 angry:
-"https://www.youtube.com/watch?v=AbxSWiC4wPE"
+"https://www.youtube.com/watch?v=Kc8c5EmQe5s"
 
 };
 
