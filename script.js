@@ -97,7 +97,153 @@ const messages = [
 
   "I hope you always remember that you are deeply valued and cared for.",
 
-  "I love being able to share parts of my life with you because you make every experience better."
+  "I love being able to share parts of my life with you because you make every experience better.",
+  "One of the reasons I love you so deeply is that my admiration for you goes beyond what I feel for you. I genuinely respect the person you are and the way your mind works.",
+
+"I could tell you that you're beautiful a thousand times, but I hope you also know how beautiful I find the way you think, the way you reason, and the way you understand things that other people might overlook.",
+
+"I love that the more I understand the way your mind works, the more I realize that my feelings for you are rooted in something much deeper than attraction.",
+
+"Sometimes I think about how rare it is to meet someone whose heart you want to hold and whose mind you want to understand for the rest of your life. For me, you're that person.",
+
+"I don't just want to be someone who loves you. I want to be someone who recognizes the depth of your thoughts, respects your perspective, and never makes you feel like you have to explain your worth.",
+
+"One of the things that makes you so special to me is that I can admire you without needing to idealize you. I see you as a real person, and the more I understand you, the more there is to admire.",
+
+"I love that your mind belongs entirely to you. Your opinions, your reasoning, and your way of seeing the world are part of what makes you the woman I fell in love with.",
+
+"I hope you never mistake my love for thinking I know everything about you. Loving you makes me want to keep learning, because I know there's always more to the person you are.",
+
+"I find myself respecting you in ways that go beyond the moments we share. Even when we're apart, the way you think and the way you see things stay with me.",
+
+"There's something special about loving someone whose thoughts you would listen to even if you had nothing to gain from the conversation. That's how I feel about you.",
+
+"I never want you to feel that you have to agree with me to be close to me. I want the freedom to be ourselves to be one of the things that makes our relationship strong.",
+
+"I love that I can look at you and feel affection, but I can also look at the way you approach life and feel genuine respect for the woman standing in front of me.",
+
+"Your intelligence is something I admire, but what means even more to me is the person you are when you put that intelligence into understanding people, situations, and life itself.",
+
+"I think one of the most meaningful things about loving you is that I don't have to choose between being emotionally connected to you and intellectually admiring you. I get to experience both.",
+
+"I hope the love I give you never makes you feel like you have to become a different version of yourself. I want to love the woman you are, including the thoughts and opinions that make you uniquely you.",
+
+"I love that you can make me reconsider something I believed without making me feel like I'm less for having believed it. There's something beautiful about being able to grow beside someone you respect.",
+
+"I don't need you to see everything the way I do. I love that you're your own person, and I would rather understand the way you see the world than expect you to see it through mine.",
+
+"I think a big part of loving someone is being able to admire who they are independently of what they mean to you. And even if I had never fallen in love with you, I believe I would still find so much about you worth respecting.",
+
+"I love that I can be proud of the woman you are without feeling like I had anything to do with making you that way. You have your own mind, your own perspective, and your own worth.",
+
+"Sometimes I wish you could see yourself from my perspective, not because I think you fail to recognize your worth, but because I want you to understand how much there is about you that I genuinely admire.",
+
+"What makes our connection meaningful to me is that we don't simply exchange words. We try to understand what those words mean to each other, and that makes me feel connected to you in a way I value deeply.",
+
+"I love that you can understand where I'm coming from without needing to have lived through every experience that made me who I am. You don't have to share my entire perspective to understand me.",
+
+"There are things about myself that are difficult to explain, even to people who know me well. The fact that I can try to express those parts of myself to you means more to me than I think I can properly explain.",
+
+"I don't think being understood means someone will always know exactly what to say. Sometimes it means they understand why something matters to you, and I cherish that kind of understanding with you.",
+
+"I love that our connection gives us the chance to understand each other beyond first impressions, assumptions, and the things people see from the outside.",
+
+"One of the things I value most about us is that we can try to understand the meaning behind each other's actions instead of allowing a single moment to define the whole person.",
+
+"I don't expect us to understand each other perfectly every time. What matters to me is that you are someone I want to understand, even when it takes patience, honesty, and effort.",
+
+"I love that we can have different perspectives without making our differences a measure of how much we care about each other.",
+
+"I think there is something rare about finding someone who can challenge the way you think while still making you feel loved. With you, I don't have to sacrifice one for the other.",
+
+"I want to understand the reasons behind your feelings, not because I believe every feeling needs an explanation, but because what happens inside you matters to me.",
+
+"I hope you know that when I try to understand you, it isn't because I want to figure you out or make you predictable. It's because I want to know you in a way that respects how complex you are.",
+
+"I love that our understanding isn't about one of us always knowing what the other needs. It's about caring enough to listen, ask, and keep learning each other.",
+
+"You have a way of making me realize that being close to someone isn't just about how much you know about them. It's about how carefully you understand what you know.",
+
+"I think one of the most personal things two people can give each other is the freedom to be understood without having to defend every part of themselves. I want you to have that with me.",
+
+"I love that we can recognize there is more to each other than what appears in a single moment. I never want one difficult conversation or misunderstanding to erase everything I know about your heart.",
+
+"I don't want to assume that loving you automatically means I understand you. I want my actions to show you that I am willing to keep listening and to learn who you are as you grow.",
+
+"What we have matters to me because I feel like we can look beyond the surface of a situation and try to understand what it means to the person experiencing it.",
+
+"I love that I can respect your point of view even when mine is different. To me, loving you means making room for your individuality, not trying to replace it with my own.",
+
+"I think the fact that we can understand each other in ways other people may not is something worth protecting. It's not something I want to take for granted simply because it comes naturally to us.",
+
+"I don't need other people to understand what makes our connection meaningful. What matters to me is that you and I recognize what we have and continue to treat it with care.",
+
+"I love that there are things between us that don't need to be impressive to anyone else to mean something to us. Their value comes from what we understand about each other.",
+
+"I want to be someone who makes it safe for you to tell me what you really think, even when you're unsure how I'll respond. Your honesty deserves more than a reaction; it deserves understanding.",
+
+"I hope that when we disagree, you never feel that you have to choose between being honest with me and feeling close to me. I want our love to have room for both of us to be real.",
+
+"I love that I can admire your independence and still feel deeply connected to you. I don't need to make you more like me to feel that we belong in each other's lives.",
+
+"Sometimes the deepest kind of connection comes from realizing that another person doesn't have to experience the world exactly as you do to understand why it feels the way it does to you.",
+
+"I want to keep discovering the parts of your perspective that I haven't understood yet, because I never want my familiarity with you to become an excuse to stop being curious about who you are.",
+
+"I love that I can look at you as someone I deeply care about and also as someone whose thoughts deserve consideration, even when our conversation has nothing to do with our relationship.",
+
+"I hope you always know that your voice matters to me even when we're not talking about something that affects me directly. I care about the way you think because I care about you as a person.",
+
+"I don't want to be the person who simply tells you that you're intelligent. I want to be the person who shows you that your thoughts are heard, your opinions are respected, and your individuality is loved.",
+
+"I love that our connection reminds me that two people can have their own inner worlds and still find a way to understand each other without having to become the same person.",
+
+"I think what makes you so important to me is that I can love you emotionally while respecting you intellectually. My feelings for you don't replace my admiration for you; they make that admiration even more personal.",
+
+"There is something meaningful about knowing that the person I love is also someone whose judgment I respect and whose perspective I genuinely want to hear.",
+
+"I love that I can come to you with a thought that isn't fully formed and trust that we can work through it together without me having to pretend I already have everything figured out.",
+
+"I want you to know that you don't have to make every thought sound perfect around me. I'm interested in understanding you, not grading how well you explain yourself.",
+
+"I think one of the reasons our connection feels so personal is that we try to understand the person beneath the reaction, the intention beneath the action, and the meaning beneath the words.",
+
+"I love that understanding you isn't a task I want to finish. It's something I want to keep doing because knowing you more deeply will always matter to me.",
+
+"I hope I never become so comfortable in our relationship that I stop asking what you think, how you see things, or why something matters to you. You deserve to keep being discovered.",
+
+"I admire that you can have your own thoughts and feelings without needing them to match mine. I want a relationship where we can both remain ourselves and still choose each other.",
+
+"I love that you can make me think more carefully about the world without making me feel like I have to abandon my own way of seeing it.",
+
+"I want to be someone who can hear your perspective without immediately turning the conversation toward my own. Sometimes loving someone means giving their thoughts room to exist on their own.",
+
+"What I value about us is not the idea that we will always understand each other immediately. It's knowing that understanding each other is worth the effort, because the person on the other side matters so much.",
+
+"I love that I can respect you as a woman with your own identity, ambitions, and perspective while also cherishing the closeness we share as a couple.",
+
+"I hope the way I love you makes you feel that you never have to compete with me to be heard or make yourself smaller to keep the peace. There is room for both of us in this relationship.",
+
+"I think one of the most beautiful things about loving someone is realizing that their mind is a world you can be invited into, but never own. I want to be someone you continue to invite in willingly.",
+
+"I love that we can see different things in the same situation and still care enough to understand what the other person sees. That kind of connection means more to me than always agreeing.",
+
+"I want to keep earning the feeling of trust that allows us to be honest with each other. I know that understanding is something we build through the way we treat each other, not something we can simply assume.",
+
+"I admire you for who you are when I'm beside you, but I also admire you for the person you are when you're making your own decisions and following your own thoughts. Both are parts of the woman I love.",
+
+"I don't think I could ever capture everything I admire about you in a single message. But I hope that over time, the way I listen to you, respect you, and love you makes those feelings clear.",
+
+"If someone asked me what makes you different to me, I wouldn't only talk about how I feel when I'm with you. I'd talk about the mind I admire, the woman I respect, and the rare understanding we share.",
+
+"I love that I don't have to choose between seeing you as the woman I love and seeing you as a person I deeply admire. You're both to me, and that makes what I feel for you even more meaningful.",
+
+"The more I think about what makes you important to me, the more I realize that it isn't one quality or one feeling. It's the combination of who you are, how you think, and the way we understand each other that makes my love for you so personal.",
+
+"I want to keep loving you in a way that respects your mind, protects your individuality, and gives us both room to grow. I don't want to simply know the woman you are today; I want to keep understanding the person you continue to become.",
+
+"If I could put one thing into words, it would be that I don't just love having you in my life. I love who you are, I admire how you think, and I cherish the way we can understand each other. Those are not separate reasons I love you; together, they are part of what makes you irreplaceable to me."
+
 ];
 
 
@@ -495,27 +641,27 @@ document.body.classList.remove(
 const funnyVideos = {
 
 happy:
-"https://www.youtube.com/shorts/SET2xG-ZCGo",
+"https://www.youtube.com/shorts/Q8KgmTYwobY",
 
 
 love:
-"https://www.youtube.com/shorts/-mFCotPcRGE",
+"https://www.youtube.com/watch?v=-r-FpdXKik0&list=RD-r-FpdXKik0&start_radio=1",
 
 
 calm:
-"https://www.youtube.com/shorts/Ew6VhePf0tA",
+"https://www.youtube.com/shorts/hAOOsOnHKhw",
 
 
 tired:
-"https://www.youtube.com/shorts/hS4nJo-xbe8",
+"https://www.youtube.com/shorts/OjMx-qIjlc8",
 
 
 sad:
-"https://www.youtube.com/watch?v=68vZX2uUKKA&list=RD68vZX2uUKKA&start_radio=1",
+"https://www.youtube.com/watch?v=_1OfB3DGwpA",
 
 
 angry:
-"https://www.youtube.com/watch?v=Kc8c5EmQe5s"
+"https://www.youtube.com/watch?v=mTxDOM4-88I"
 
 };
 
